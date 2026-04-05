@@ -32,7 +32,7 @@ export default function Overlay({ scrollYProgress }: OverlayProps) {
           Subhrajeet Dash.
         </h1>
         <p className="text-xl md:text-2xl text-zinc-300 font-light tracking-wide max-w-xl mx-auto drop-shadow-xl">
-          Full Stack Developer
+          Full Stack Developer & DevOps Engineer
         </p>
       </motion.div>
 
